@@ -2,7 +2,7 @@ asn1crypto==0.24.0
 bcrypt==3.1.7
 cffi==1.12.3
 cryptography==2.7
-Django==1.11.21
+Django==1.11.23
 enum34==1.1.6
 fabric==2.4.0
 flup==1.0
